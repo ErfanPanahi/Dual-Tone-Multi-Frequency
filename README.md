@@ -10,4 +10,4 @@
 
 ![image](https://github.com/ErfanPanahi/Dual-Tone-Multi-Frequency/assets/107314081/6d01ef5d-c9a3-48a7-b2b3-26b9d2aef46b)
 
-*In this exercise, you are required to implement both the synthesis and analysis sections of this type of signaling, based on the descriptions provided in the figure.*
+*In this exercise, we intend to implement both the synthesis and analysis aspects of this type of signaling, according to the explanations provided in the figure..*
